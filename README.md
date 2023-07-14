@@ -1,1 +1,1 @@
-# OpenCV_Project-Color_Detection
+# OpenCV Project - Color Detection
